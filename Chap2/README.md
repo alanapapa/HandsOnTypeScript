@@ -1,3 +1,5 @@
+# 2. Exploring TypeScript
+
 - What are types?
 - Exploring TypeScript types
 - Understanding classes and interfaces

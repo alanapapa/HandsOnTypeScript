@@ -1,0 +1,15 @@
+{
+  "name": "chap3",
+  "version": "1.0.0",
+  "description": "* Learning about ES6 variable types and JavaScript scoping * Learning about arrow functions * Changing the this context * Learning about spread, de-structuring, and rest * Learning about new array functions * Learning about new collection types * Learning about async await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.3.5"
+  }
+}
