@@ -1,0 +1,14 @@
+{
+  "name": "chap2",
+  "version": "1.0.0",
+  "description": "- What are types? - Exploring TypeScript types - Understanding classes and interfaces - Understanding inheritance - Learning generics - Learning the latest features and configuring the compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
