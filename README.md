@@ -13,5 +13,16 @@ This section comprises of the following chapters:
 
 ***
 
+# Section 2: Learning Single-Page Application Development Using React
+
+In this section, we will learn how to set up and build a React web application.
+
+This section comprises of the following chapters:
+- Chapter 4, Learning Single-Page Application Concepts and How React Enables Them
+- Chapter 5, React Development with Hooks
+- Chapter 6, Setting Up Our Project Using create-react-app and Testing with Jest
+- Chapter 7, Learning Redux and React Router
+
+***
 
 ![book](./book.jpg)
