@@ -1,4 +1,4 @@
-# React Development with Hooks
+# 5. React Development with Hooks
 
 - Understanding the limitations of class-style components
 - Learning about React Hooks and understanding the benefits
