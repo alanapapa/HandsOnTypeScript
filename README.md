@@ -20,7 +20,7 @@ In this section, we will learn how to set up and build a React web application.
 This section comprises of the following chapters:
 - [Chapter 4, Learning Single-Page Application Concepts and How React Enables Them](https://github.com/alanapapa/HandsOnTypeScript/tree/master/Chap4)
 - [Chapter 5, React Development with Hooks](https://github.com/alanapapa/HandsOnTypeScript/tree/master/Chap5)
-- Chapter 6, Setting Up Our Project Using create-react-app and Testing with Jest
+- [Chapter 6, Setting Up Our Project Using create-react-app and Testing with Jest](https://github.com/alanapapa/HandsOnTypeScript/tree/master/Chap6)
 - Chapter 7, Learning Redux and React Router
 
 ***
